@@ -1,5 +1,5 @@
 import telebot
-bot = telebot.TeleBot('6237462847:AAGmM7a4jg4G4eLv5MU-IrS9NDDnB1E0fRA')
+bot = telebot.TeleBot('-')
 from transformers import GPT2Config, GPT2LMHeadModel
 from transformers import GPT2Tokenizer
 import torch
